@@ -1,0 +1,3 @@
+Escrevendo dados no arquivo
+testando
+escrevendoumnovotexto
